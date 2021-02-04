@@ -1,3 +1,14 @@
+## Update Feb 2021
+
+We are trying to maintain this version which supports legacy Angular JS on npm.  
+You can finally install via npm:
+
+```
+npm i @xenialab/angular-filemanager
+```
+
+All credits to the original author. Donate to him following the link below. ⬇⬇⬇
+
 ## Update Dec 2018
 Hi!, I am moving the project from AngularJS to **React + Redux** [(react-filemanager)](https://github.com/joni2back/react-filemanager), it's very important for me your collaboration on my development tasks and time. Please help me to move forward with a donation by paypal :) [![Donate](https://www.paypal.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRB7EW72PS982) 
 
